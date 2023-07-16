@@ -1,0 +1,3 @@
+# Auto Configure springBoot启动时会读取spring.factories文件通过AutoConfiguration创建对应的bean
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yoristar.config.YoriStarRedisAutoConfiguration
